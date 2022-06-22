@@ -1,0 +1,26 @@
+# ninja log v5
+5	981	6638740864078159	CMakeFiles/miniProjektv2.dir/testClass.cpp.obj	ba9687ba4fcc1eaa
+3	1114	6638740865438167	CMakeFiles/miniProjektv2.dir/main.cpp.obj	c9352413ac14309b
+0	1009	6638740864378160	CMakeFiles/miniProjektv2.dir/CMax3SatProblem.cpp.obj	f578e4facc00c65c
+9	980	6638740864078159	CMakeFiles/miniProjektv2.dir/CGAOptimizer.cpp.obj	df0359e1046391a0
+1115	1293	6638740866918164	miniProjektv2.exe	eed72e7541f1ac0a
+7	1078	6638740865078263	CMakeFiles/miniProjektv2.dir/CGAIndividual.cpp.obj	58535a96c0c6319b
+8	882	6644703829735140	CMakeFiles/miniProjektv2.dir/CGAOptimizer.cpp.obj	df0359e1046391a0
+3	895	6644703829877377	CMakeFiles/miniProjektv2.dir/CMax3SatProblem.cpp.obj	f578e4facc00c65c
+6	956	6644703830488200	CMakeFiles/miniProjektv2.dir/CGAIndividual.cpp.obj	58535a96c0c6319b
+0	999	6644703830914886	CMakeFiles/miniProjektv2.dir/main.cpp.obj	c9352413ac14309b
+999	1228	6644703832788791	miniProjektv2.exe	7cba7ff921c3a397
+3	812	6644708389658470	CMakeFiles/miniProjektv2.dir/CGAOptimizer.cpp.obj	df0359e1046391a0
+6	816	6644708389733769	CMakeFiles/miniProjektv2.dir/CGAIndividual.cpp.obj	58535a96c0c6319b
+0	880	6644708390424928	CMakeFiles/miniProjektv2.dir/main.cpp.obj	c9352413ac14309b
+880	1088	6644708392237215	miniProjektv2.exe	7cba7ff921c3a397
+0	744	6644708845635577	CMakeFiles/miniProjektv2.dir/main.cpp.obj	c9352413ac14309b
+744	861	6644708846618435	miniProjektv2.exe	7cba7ff921c3a397
+0	729	6644709025197448	CMakeFiles/miniProjektv2.dir/main.cpp.obj	c9352413ac14309b
+729	895	6644709026603066	miniProjektv2.exe	7cba7ff921c3a397
+0	729	6644709153385196	CMakeFiles/miniProjektv2.dir/main.cpp.obj	c9352413ac14309b
+730	839	6644709154313953	miniProjektv2.exe	7cba7ff921c3a397
+3	963	6644749309939287	CMakeFiles/miniProjektv2.dir/CGAOptimizer.cpp.obj	df0359e1046391a0
+6	972	6644749310054289	CMakeFiles/miniProjektv2.dir/CGAIndividual.cpp.obj	58535a96c0c6319b
+0	1009	6644749310439482	CMakeFiles/miniProjektv2.dir/main.cpp.obj	c9352413ac14309b
+1009	1234	6644749312369286	miniProjektv2.exe	7cba7ff921c3a397
